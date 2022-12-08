@@ -2,11 +2,11 @@ body{
     background-color: lightskyblue;
     text-align: center;
 }
-
 a :link {
     color: black;
+    align-content: center;
+}
+a :visited {
+    color: white;
 }
 
-a :visited {
-    color: gray;
-}
